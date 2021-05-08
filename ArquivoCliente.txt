@@ -1,0 +1,21 @@
+** Novo cliente: 
+{
+wesley
+rock estrela
+11998
+2021-05-08
+0
+** Novo cliente: 
+?
+Ellen
+aguia de haia
+118888
+2021-05-08
+0
+** Novo cliente: 
+?
+Luiz antonio
+Artur
+189999
+2021-05-08
+0
